@@ -1,6 +1,0 @@
-test
-hello
-wangying
-thoughtworks
-github.com
-add new line
